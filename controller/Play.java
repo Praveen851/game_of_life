@@ -4,6 +4,6 @@ import model.Board;
 
 public class Play {
     public static void playGame(Board board){
-        
+        int counter = 0;
     }   
 }

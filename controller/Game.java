@@ -1,4 +1,5 @@
 package controller;
+
 import model.Board;
 public class Game{
     public static void main(String[] args) {   
